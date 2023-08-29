@@ -92,3 +92,12 @@ li:hover {
   font-size: 25px;
   margin: 20px;
 }
+.list-group-item{
+font-size: 14px;
+transition: 0.3s all;
+}
+
+.list-group-item:hover{ 
+  background-color: #e7e7e7;
+  transition: 0.3s all;
+}
